@@ -1,0 +1,28 @@
+.container{
+	background-color: #A9A9A9;
+}
+#side_navigation,#main_head{
+	background-color: #ccc;
+	border-radius: 10px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+#main_section{
+	background-color: #ccc;
+	border-radius: 10px;
+	margin-bottom: 30px;	
+	padding: 15px; 
+}
+#main_section ul li{
+	margin-bottom: 8px;
+}
+#main_section ul li p{
+	display: inline;
+	margin-bottom: 5px;
+}
+#footer{
+	background-color: #ccc;
+	border-radius: 10px;
+	padding: 10px;
+	margin-bottom: 10px;
+}
